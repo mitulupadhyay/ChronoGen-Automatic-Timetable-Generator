@@ -8,6 +8,13 @@ ChronoGen automatically generates conflict-free school timetables using a **Gene
 ## 🎥 DEMO
 https://screenrec.com/share/EZO492wrGL
 
+## 🧠 System Design & Planning
+
+We used Miro to design the architecture, genetic algorithm flow, and system workflow before implementation.
+
+🔗 Miro Board (Planning & Architecture):
+https://miro.com/app/board/uXjVGg-IDJ8=/
+
 ## 🚀 Quick Start.
 
 ### Prerequisites:
