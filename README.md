@@ -6,7 +6,7 @@ ChronoGen automatically generates conflict-free school timetables using a **Gene
 
 ---
 ## 🎥 DEMO
-https://screenrec.com/share/EZO492wrGL
+https://screenrec.com/share/HNg3sQamkw
 
 ## 🧠 System Design & Planning
 
